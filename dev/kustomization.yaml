@@ -3,7 +3,7 @@ namespace: tp7-kustomize
 # Raccourci natif de Kustomize pour mettre à jour une image
 images:
   - name: spring-petclinic
-    newName: ghcr.io/<VOTRE_USER_GITHUB>/spring-petclinic
+    newName: ghcr.io/mi365eu/spring-petclinic
     newTag: 4.0.0-SNAPSHOT
 
 resources:
